@@ -1,0 +1,21 @@
+body{
+    background-color:darkgrey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+table{
+    border: 3px solid black;
+    font-size: 26px;
+    display: block;
+    margin: 3px;
+    line-height: 2.6rem;
+    padding: 5px;
+}
+table th{
+    background-color: white;
+}
+table tr{
+    padding: 10px;
+    margin: 30px;
+}
