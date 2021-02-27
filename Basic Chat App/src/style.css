@@ -1,0 +1,42 @@
+.contacts{
+    background-color: #000;
+    display: inline-flex;
+    height: 400px;
+    width: 300px;
+    overflow: scroll;
+}
+.message{
+    overflow:scroll;
+    position :relative;
+    background-color: black;
+    display: block;
+    margin-left:400px; 
+    margin-top: -520px;
+    width: 400px;
+    height: 400px;
+}
+.message1{   
+    width:100px;
+    margin-left: 400px;
+}
+.MsgBox{
+    display: flex;
+    margin-left: 400px;
+    justify-content: flex-end;
+    align-content: right;
+    align-items: right;
+    height: 20px;
+    margin: 20px;
+    background-color: white;
+}
+.msgIn{
+    width: 220px;
+    position: absolute;
+}
+.msgBtn{
+    position: absolute;
+    left: 600px;
+}
+.t1{
+    width: 300px;
+}
